@@ -77,7 +77,6 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "preset": "react",
         "releaseRules": [
           {
             "type": "docs",
@@ -96,10 +95,6 @@
           {
             "scope": "no-release",
             "release": false
-          },
-          {
-            "message": "*fix*",
-            "release": "patch"
           }
         ]
       }
