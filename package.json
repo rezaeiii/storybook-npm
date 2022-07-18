@@ -96,6 +96,10 @@
           {
             "scope": "no-release",
             "release": false
+          },
+          {
+            "message": "*fix*",
+            "release": "patch"
           }
         ]
       }
