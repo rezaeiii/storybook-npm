@@ -1,5 +1,5 @@
 {
-  "name": "storybook-npm",
+  "name": "@as.rezaei/storybook-npm",
   "version": "0.1.0",
   "files": [
     "dist"
