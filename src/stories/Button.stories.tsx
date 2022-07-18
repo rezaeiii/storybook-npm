@@ -12,6 +12,6 @@ export const Default = () => (
 );
 export const Primary = () => (
   <Button primary onClick={action("clicked")}>
-    Primary Button32
+    Primary Button
   </Button>
 );
